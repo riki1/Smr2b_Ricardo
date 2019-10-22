@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>Ricardo</title>
+</head>
+<body>
+<h1>SANTANDER</h1>
+Ciudad de 175.000 personas
+<h2>Vivo yo</h2>
+Ricardo Gallo
+<h3>Tiene 5 playas</h3>
+Sardinero, La virgen del mar, Bikinis, El camello, San juan
+
+
+</body>
+</html>
+	
