@@ -2,7 +2,7 @@
 <head>
 	<title>Ricardo</title>
 </head>
-<body bgcolor="green">
+<body style="background-color:green;">
 <center>
 <h1>SANTANDER</h1>
 </center>
@@ -12,7 +12,10 @@ Mi nombre: Ricardo Gallo
 <h3>Tiene 5 playas</h3>
 Sardinero, La virgen del mar, Bikinis, El camello, San juan
 
-<p> <b> <u>Santander</b> </u> es una ciudad pequeña y tranquila, esta al <b>norte</b> asi que hace frio que le vamos a hacer, por lo demas esta bastante bien.</p> <br/>
+<p> <span style="
+	text-decoration:underline;
+	font-weight:bold;
+">Santander</span> es una ciudad pequeña y tranquila, esta al <b>norte</b> asi que hace frio que le vamos a hacer, por lo demas esta bastante bien.</p> <br/>
 
 En santander hay zonas muy turísticas, y cuándo llega el verano, se llena de guiris. Una zona muy visitada por los turistas es la magdalena, se siempre hay peña.
 </br> <br/>

@@ -2,7 +2,7 @@
 <head>
 	<title>Ricardo</title>
 </head>
-<body bgcolor="green">
+<body>
 <center>
 <h1>SANTANDER</h1>
 </center>
