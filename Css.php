@@ -2,7 +2,7 @@
 <head>
 	<title>Ricardo</title>
 </head>
-<body style="background-color:green;">
+<body style="background-color:pink;">
 <center>
 <h1>SANTANDER</h1>
 </center>
@@ -11,6 +11,10 @@ Mi nombre: Ricardo Gallo
 <h2>Ciudad donde vivo</h2>
 <h3>Tiene 5 playas</h3>
 Sardinero, La virgen del mar, Bikinis, El camello, San juan
+<h4 style="
+	color:green;
+	font-size:.9em;
+">No esta mal eh</h4>
 
 <p> <span style="
 	text-decoration:underline;
